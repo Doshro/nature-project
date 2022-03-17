@@ -39,7 +39,7 @@ li{
 }
 
 .block1{
-    background-image: url(./img/main-hero.jpg);
+    background-image: url(/img/main-hero.jpg);
     background-position: center;
     background-repeat: no repeat;
     height: 714px;
@@ -238,61 +238,40 @@ li{
     font-size: 16px;
     padding-bottom: 10px;
 }
-
 .block5{
-    background-image: url(/img/horses.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 600px;
+    height: 500px;
     width: 100%;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
-.block5-img{
-    height: 600px;
-    width: 100%;
-}
+
+
 
 .block6{
-    height: 970px;
+    height: 800px;
     width: 100%;
-    margin-top: 50px;
+    margin-top: 90px;
+}
+
+.block6-divs{ 
+    display: flex;
+    margin-left: 100px; 
+    margin-right: 70px; 
     
 }
 
-.block6-divs{
-    height: 649px;
-    display: flex;
-    justify-content: space-around;
-    margin-left: 70px;
-    margin-right: 70px;
-}
 .block6-left{
-    background-image: url(/img/block6\ left.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 649px;
-    width: 565px;
-    height: 649px;
-    width: 575px;
-    
-    
+    margin-right: 30px;
 }
-.block6-right{
-    background-image: url(/img/block6\ right.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 649px;
-    width: 565px;
-    height: 649px;
-    width: 575px;
-}
+
 .block6-big{
     font-size: 48px;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-align: center;
-    margin-top: 10px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 .block6-small{
     color: white;
@@ -302,53 +281,30 @@ li{
     padding-bottom: 10px;
 }
 .block7{
-    margin-top: 40px;
+    margin-top: 10px;
     padding-bottom: 70px;
-    
+    margin-bottom: 2px;
 }
 
 .block7-divs{
     display: flex;
-    margin-left: 80px;
+    margin-left: 100px;
     margin-right: 80px;
-    
-
 }
+
 .block7-div1{
-    background-image: url(/img/last1.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 252px;
-    width: 284px;
     margin-right: 10px;
 }
 
 .block7-div2{
-    background-image: url(/img/last2.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 253px;
-    width: 284px;
     margin-right: 10px;
 }
 
 .block7-div3{
-    background-image: url(/img/last3.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 253px;
-    width: 284px;
-    margin-right: 10px
-}
-
-.block7-div4{
-    background-image: url(/img/last4.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 253px;
-    width: 284px;
     margin-right: 10px;
-    
+}
+.block7-div4{
+    margin-right: 10px;
 }
 
 .foot{
