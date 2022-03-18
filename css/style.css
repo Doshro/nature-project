@@ -39,7 +39,7 @@ li{
 }
 
 .block1{
-    background-image: url(../img/main-hero.jpg);
+    background-image: url(/img/main-hero.jpg);
     background-position: center;
     background-repeat: no repeat;
     height: 714px;
@@ -156,7 +156,7 @@ li{
     
 }
 .monkey{
-    background-image: url(../img/monkey.jpg);
+    background-image: url(./img/monkey.jpg);
     background-position: center;
     height: 557px;
     width: 400px;
