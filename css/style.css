@@ -245,8 +245,6 @@ li{
     margin-bottom: 2px;
 }
 
-
-
 .block6{
     height: 800px;
     width: 100%;
@@ -257,7 +255,6 @@ li{
     display: flex;
     margin-left: 100px; 
     margin-right: 70px; 
-    
 }
 
 .block6-left{
@@ -323,6 +320,8 @@ li{
     height: 89px;
     width: 300px;
     padding-top: 80px;
+    padding-left: 40px;
+
     
 }
 
@@ -330,12 +329,14 @@ li{
     height: 89px;
     width: 300px;
     padding-top: 80px;
+    padding-left: 40px;
 }
 
 .foot3{
     height: 89px;
     width: 300px;
     padding-top: 80px;
+    padding-left: 40px;
 }
 .first-text{
     font-size: 18PX;
