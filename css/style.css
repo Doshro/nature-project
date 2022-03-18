@@ -39,7 +39,7 @@ li{
 }
 
 .block1{
-    background-image: url(../img/main-hero.jpg);
+    background-image: url(/img/main-hero.jpg);
     background-position: center;
     background-repeat: no repeat;
     height: 714px;
